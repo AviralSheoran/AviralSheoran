@@ -14,18 +14,13 @@
 <a href="https://open.spotify.com/user/stczea8rpcwhmarvv8tmj946k">
   <img alt="Aviral's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
+  <a href="https://leetcode.com/aviralsheoran/">
+  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" height="40" />
+</a>
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/AviralSheoran">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AviralSheoran?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/AviralSheoran/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AviralSheoran" alt="AviralSheoran" /> </p>
-<a href="https://leetcode.com/aviralsheoran/">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" />
-</a>
+
 
 ## 🔥 Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AviralSheoran&theme=cobalt)](https://git.io/streak-stats)
