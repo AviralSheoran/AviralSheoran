@@ -16,6 +16,17 @@
 </a>
 </p>
 
+<p align="center"> 
+  <a href="https://github.com/AviralSheoran">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AviralSheoran?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/AviralSheoran/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AviralSheoran" alt="AviralSheoran" /> </p>
+<a href="https://leetcode.com/aviralsheoran/">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" />
+</a>
+
 ## 🔥 Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AviralSheoran&theme=cobalt)](https://git.io/streak-stats)
 
@@ -32,9 +43,8 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
-<hr>
 
-
+## 📊 Github stats
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
@@ -43,6 +53,9 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
+
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AviralSheoran's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AviralSheoran&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 <br/>
