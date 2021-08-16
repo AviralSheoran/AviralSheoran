@@ -17,6 +17,9 @@
   <a href="https://leetcode.com/aviralsheoran/">
   <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" height="40" />
 </a>
+  <a href="https://codeforces.com/profile/AviralSheoran">
+  <img src="https://cdn.icon-icons.com/icons2/2622/PNG/128/brand_codeforces_icon_157995.png" height="40" />
+</a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AviralSheoran" alt="AviralSheoran" /> </p>
