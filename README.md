@@ -18,7 +18,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" />
 </a>
   <a href="https://codeforces.com/profile/AviralSheoran">
-  <img src="https://cdn.icon-icons.com/icons2/2622/PNG/128/brand_codeforces_icon_157995.png" height="40" />
+  <img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" height="40" />
 </a>
 </p>
 
