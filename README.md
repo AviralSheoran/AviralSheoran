@@ -15,7 +15,7 @@
   <img alt="Aviral's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
   <a href="https://leetcode.com/aviralsheoran/">
-  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" />
 </a>
   <a href="https://codeforces.com/profile/AviralSheoran">
   <img src="https://cdn.icon-icons.com/icons2/2622/PNG/128/brand_codeforces_icon_157995.png" height="40" />
