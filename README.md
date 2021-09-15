@@ -57,6 +57,3 @@
 
 
 <br/>
-
-
-<a href="https://app.daily.dev/Aviral"><img src="https://api.daily.dev/devcards/db5a71f3366d47ba9af47e05e77d27e8.png?r=fai" width="400" alt="Aviral Sheoran's Dev Card"/></a>
