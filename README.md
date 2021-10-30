@@ -1,7 +1,7 @@
-<h3 align="center">
-  Welcome to Aviral Sheoran's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h2 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Aviral
+  
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=9502F7&size=28&lines=Aspiring+Full+Stack+Developer;Self-taught+Programmer;Always+learning+new+things">
