@@ -26,7 +26,7 @@
 
 
 ## 🔥 Streak stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AviralSheoran&theme=cobalt)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AviralSheoran&theme=cobalt)
 
 
 ## ⚡ Languages and Tools:<br/>
