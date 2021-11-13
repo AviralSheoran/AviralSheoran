@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aviral-sheoran-8488b41b8/">
-  <img alt="Aviral's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img alt="Aviral's LinkdeIN" width="40px" src="https://img.icons8.com/color/50/000000/linkedin.png" />
 </a>
 <a href="https://open.spotify.com/user/stczea8rpcwhmarvv8tmj946k">
   <img alt="Aviral's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
