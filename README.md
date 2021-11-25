@@ -11,7 +11,8 @@
 <a href="https://www.linkedin.com/in/aviral-sheoran-8488b41b8/">
   <img alt="Aviral's LinkdeIN" width="40px" src="https://img.icons8.com/color/50/000000/linkedin.png" />
 </a>
-<a href="https://open.spotify.com/user/stczea8rpcwhmarvv8tmj946k">
+<a href="https://user-images.githubusercontent.com/71494616/143460112-485fc415-07ea-4c6c-a39a-1860f4283127.png
+">
   <img alt="Aviral's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
   <a href="https://leetcode.com/aviralsheoran/">
